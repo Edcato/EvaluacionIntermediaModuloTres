@@ -34,7 +34,9 @@ mantener comunicación con los profesionales en todo momento, aún en terreno, y
 posibilidad de realizar todas sus actividades aun no teniendo conectividad (internet), ya que
 muchas empresas se encuentran en zonas donde no hay conexión de ese tipo.
 
-
+Manejo de CSS y HTML y  responsividad. Desarrollo sitio web estático bajo la sintaxis provista
+por el lenguaje HTML, usando estilos novedosos y con un
+diseño adaptable al tamaño actual de la ventana.
 ### Integrantes ###
 
 * Deyanira Silva
