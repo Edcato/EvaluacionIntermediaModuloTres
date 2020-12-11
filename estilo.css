@@ -1,0 +1,119 @@
+body {
+    background-color: #0fbaee;
+    color: #DDDDDD;
+    font-family: Verdana, Sans-serif;
+    font-size: 1.2em;
+}
+
+h1 {
+    margin:0;
+    padding: 0;
+    color: black;
+}
+
+p {margin: 1em 00;
+    color: rgb(219, 37, 37);
+}
+.parrafo {
+    background-color: #CCCCCC;
+    color: #2c363d;
+
+}
+
+
+
+.division {
+    padding: 0.8em 1em;
+    margin: 2em;
+       
+    height: 400px;
+    width: 80%;
+    text-align: center;
+}
+.encabezado {
+    background-color: #3d95d3;
+    MARGIN: 0;
+    PADDING: 1em 1.5em;
+    TEXT-ALIGN: CENTER;
+}
+
+
+
+
+.formulario {
+    background-color: #cccccc;
+    border: 1px solid #AAAAAA;
+    margin: 2em auto;
+    width: 75%;
+}
+
+.campo {
+    margin: 0.5em 1.5em;
+    padding: 0.5em 0;
+    color: #2c363d;
+}
+
+.campo label {
+    display: block;
+    color: #2c363d;
+
+}
+
+.campo .en-linea {
+    display: inline-block;
+    color: #2c363d;
+}
+
+.campo .en-linea.izquierdo {
+    margin-right: 2em;
+    color: #2c363d;
+}
+.botones {
+    text-align: center;
+
+
+}
+
+
+.formulario .botones {
+    background-color: #AAAAAA;
+   margin: 0;
+    padding: 1em 1.5em;
+}
+
+button,input[type=submit] {
+    text-align: center;
+    background-color: #00AAEE;
+    border: 1px solid #0099DD;
+    color: #FFFFFF;
+    font-size:  1em;
+    font-weight: bold;
+    padding: 0.5em 1em;
+}
+
+button :hover,input[type=submit]:hover,
+button :focus,input[type=submit]:focus {
+    background-color: #33CCFF;
+}
+
+button :active,input[type=submit]:active {
+    background-color: #0077BB;
+    border: 1px solid #0066AA;
+    color:#DDDDDD;
+}
+
+button :disabled,input[type=submit]:disabled {
+    opacity: 0.5;
+}
+
+
+
+
+
+
+
+
+
+
+  
+    
